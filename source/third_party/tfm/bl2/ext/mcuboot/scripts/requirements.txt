@@ -4,3 +4,4 @@ pyyaml
 cbor>=1.0.0
 imgtool>=1.9.0
 click
+cbor2>=5.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
